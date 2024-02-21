@@ -1,0 +1,28 @@
+
+.child3 {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.child3 button{
+    padding: 10px 30px;
+}
+.child3 details{
+    color: aqua;
+}
+.child3 button {
+    background-color:rgb(252, 8, 8);
+    font-size: 20px;
+    font-weight: bolder;
+    color: #03f30f;
+    border: 1px solid black;
+    color: white;
+    justify-content: space-between;
+    gap: 50px;
+}
+
+.child3 button:hover {
+    background-color: rgb(1, 31, 51);
+    color: #FFF;
+}
